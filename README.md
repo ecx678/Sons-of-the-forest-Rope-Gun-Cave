@@ -5,6 +5,7 @@
 - [ ] **Båge & Pilar / Spjut** (Distansvapen)
 - [ ] **Molotovs** (För grupper av Puffies)
 - [ ] **Tarp + Stick** (För att spara i grottan)
+- [ ] **Eller andra bra vapen**
 
 ---
 
